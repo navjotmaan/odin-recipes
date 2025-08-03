@@ -1,0 +1,20 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(241, 217, 196);
+}
+
+h1 {
+    color: rgb(215, 36, 36);
+}
+
+h2 {
+    color: rgb(55, 55, 226);
+}
+
+a {
+    color: rgb(19, 53, 132);
+}
+
+a:hover {
+    color: brown;
+}
